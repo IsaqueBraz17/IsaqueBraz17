@@ -1,5 +1,11 @@
 ### Olá , Eu sou Isaque Braz!👋
 
+### MEUS CONTATOS
+<div>
+  <img href="https://www.linkedin.com/in/isaque-de-oliveira-braz-7a6a75302?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoPUsTvZSQpW70qcPvuflDw%3D%3D" align="center "alt="Linkedin" 
+  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div><br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueBraz17&layout=compact)
 
 ### Minhas Habilidades!
