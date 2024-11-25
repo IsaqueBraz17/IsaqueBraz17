@@ -1,6 +1,6 @@
 ### Isaque de Oliveira Braz 
 <p> Minha carreira profissional como Desenvolvedor Full Stack com foco em Front end ,<br>
-   no momento estou Graduando em Ciências da Computação.</p>
+   possuo conhencimento de Design Gráfico ,no momento estou Graduando em<br> Ciências da Computação.</p>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueBraz17&layout=donut)](https://github.com/IsaqueBraz17/github-readme-stats)-->
