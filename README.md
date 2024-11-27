@@ -1,5 +1,5 @@
 ### Isaque de Oliveira Braz 
-<p> Desenvolvedor Back End  </p>
+<p> Desenvolvedor Back End / Software </p>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueBraz17&layout=donut)](https://github.com/IsaqueBraz17/github-readme-stats)-->
