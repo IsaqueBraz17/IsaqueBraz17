@@ -1,10 +1,10 @@
 ### Isaque de Oliveira Braz 
-<p> Desenvolvedor Full Stack / Front end</p>
+<p> Estudante em Ciências da Computação | Full Stack em formação </p>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueBraz17&layout=donut)](https://github.com/IsaqueBraz17/github-readme-stats)-->
 
-### Minhas Habilidades !!
+### Estudando Habilidades !!
 
 <div style="display:inline-block">
   <img align="center "alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
