@@ -2,15 +2,15 @@
 
 👨‍🎓 Estudante de Engenharia de Software | Desenvolvedor Back-End em evolução
 
-🌟 Objetivo Profissional
-Meu objetivo é construir uma carreira sólida na área de desenvolvimento de software, com foco nos cargos de Engenheiro de Software ou Arquiteto de Software. Tenho grande interesse em áreas como Inteligência Artificial (IA), Automação, Gestão <br>e Qualidade de Software, além de Infraestrutura e DevOps.
-
+😊 Objetivo Profissional:<br>
+ Área de Desenvolvimento de Software, com foco nos cargos de Engenheiro de Software e Arquiteto de Software ,<br> Computação em Nuvem e Inteligência Artificial.<br>
+ 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueBraz17&layout=donut)](https://github.com/IsaqueBraz17/github-readme-stats)-->
 
 
 ## 🚀 Tecnologias e Ferramentas
-Atualmente, estou aprimorando minhas habilidades em Python e aprendendo Banco de Dados com MySQL e SQL.. 
+Atualmente, estou aprimorando minhas habilidades em C#, .NET e aprendendo Banco de Dados com MySQL e SQL.. 
 
 ### Linguagens de programação:
  <div style="display:inline-block">
