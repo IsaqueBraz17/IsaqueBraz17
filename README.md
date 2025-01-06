@@ -4,15 +4,13 @@
 
  Meu Objetivo Profissional:<br>
  Construir carreira profissional na área de desenvolvimento de software Full Stack ou Back end,<br>
- e depois migrar para Engenhiro de softwares e Arquiteto de Softwares
+ e depois migrar para o cargo de Engenheiro de softwares e Arquiteto de Softwares
  
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueBraz17&theme=blue-green)
 
 
-
-
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Minhas Habilidades
 
 ### Programação:
  <div style="display:inline-block">
@@ -22,6 +20,7 @@
   <img align="center "alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><br>
   <img align="center "alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center "alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img align="center "alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   
  ### Ferramentas:
  <div style="display:inline-block">
