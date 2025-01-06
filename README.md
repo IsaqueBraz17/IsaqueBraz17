@@ -2,10 +2,6 @@
 
 👨‍🎓 Estudante de Engenharia de Software | Desenvolvedor Back-End em evolução
 
- Meu Objetivo Profissional:<br>
- Construir carreira profissional na área de desenvolvimento de software Full Stack ou Back end,<br>
- e depois migrar para o cargo de Engenheiro de softwares e Arquiteto de Softwares
- 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueBraz17&theme=blue-green)
 
