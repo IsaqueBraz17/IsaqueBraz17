@@ -6,7 +6,7 @@ Meu objetivo é construir uma carreira sólida e de impacto na área de Tecnolog
 
 # 😁 Minhas Estatísticas
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueBraz17&theme=blue-green)
+
 
 
 ## 🚀 Minhas Habilidades
