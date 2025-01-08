@@ -1,9 +1,12 @@
-# 👋 Olá, seja bem-vindo!
+# 🚀 Sobre mim
 
-👨‍🎓 Estudante de Engenharia de Software | Desenvolvedor Full Stack/Back end em evolução
+Eu sou Isaque ,sou um entusiasta da tecnologia, em busca de desenvolver soluções inovadoras e impactantes no mundo digital. Atualmente, estou em formação em Engenharia de Software e em constante evolução como desenvolvedor Back-End<br><br>
+Meu objetivo é construir uma carreira sólida e de impacto na área de Tecnologia da Informação. No curto prazo, busco atuar como Dev Full Stack ou Back-End, contribuindo para o desenvolvimento de software de alta qualidade. A longo prazo, crescer para posições como Engenheiro de Software, onde poderei liderar e trabalhar em projetos inovadores que transformam a maneira como interagimos com a tecnologia. Estou em busca de oportunidades em grandes empresas e projetos internacionais, para continuar minha evolução profissional e colaborar com equipes que compartilham a mesma paixão por tecnologia.<br>
 
+
+# 😁 Minhas Estatísticas
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueBraz17&theme=blue-green)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueBraz17&theme=blue-green)
 
 
 ## 🚀 Minhas Habilidades
