@@ -1,7 +1,11 @@
 # 🚀 Sobre mim
 
-Eu sou Isaque ,sou um entusiasta da tecnologia, em busca de desenvolver soluções inovadoras e impactantes no mundo digital. Atualmente, estou em formação em Engenharia de Software e em constante evolução como desenvolvedor Back-End<br><br>
-Meu objetivo é construir uma carreira sólida e de impacto na área de Tecnologia da Informação. No curto prazo, busco atuar como Dev Full Stack ou Back-End, contribuindo para o desenvolvimento de software de alta qualidade. A longo prazo, crescer para posições como Engenheiro de Software, onde poderei liderar e trabalhar em projetos inovadores que transformam a maneira como interagimos com a tecnologia. Estou em busca de oportunidades em grandes empresas e projetos internacionais, para continuar minha evolução profissional e colaborar com equipes que compartilham a mesma paixão por tecnologia.<br>
+Olá, me chamo Isaque e sou estudante de Engenharia de Software, apaixonado por tecnologia e soluções inovadoras. Estou desenvolvendo uma carreira na área de desenvolvimento de software, com foco em Full Stack, explorando o equilíbrio entre front-end e back-end para criar experiências completas e funcionais e conhecer também areas de desenvolvimento Mobile e Games futuramente.<br>
+
+Sou entusiasta de Inteligência Artificial, Design e Programação, sempre buscando aprender e aplicar novas tecnologias que possam transformar ideias em realidade. Meu objetivo é contribuir em projetos de impacto, colaborando com equipes criativas e dinâmicas que valorizem inovação e excelência.<br>
+
+Estou em busca de oportunidades que me desafiem e permitam participar de grandes projetos em empresas que estejam moldando o futuro da tecnologia. Vamos trabalhar juntos para criar algo incrível!
+
 
 
 # 😁 Minhas Estatísticas
