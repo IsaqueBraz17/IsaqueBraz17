@@ -1,10 +1,8 @@
 # 🚀 Sobre mim
 
-Olá, me chamo Isaque e sou estudante de Engenharia de Software, apaixonado por tecnologia e soluções inovadoras. Estou desenvolvendo uma carreira na área de desenvolvimento de software, com foco em Full Stack, explorando o equilíbrio entre front-end e back-end para criar experiências completas e funcionais e conhecer também areas de desenvolvimento Mobile e Games futuramente.<br>
+Olá, sou Isaque, estudante de Engenharia de Software, apaixonado por tecnologia e inovação. Atualmente, estou em plena construção da minha carreira como desenvolvedor de software, com ênfase em Back-End, buscando sempre me aprimorar para oferecer soluções impactantes e de alto valor.
 
-Sou entusiasta de Inteligência Artificial, Design e Programação, sempre buscando aprender e aplicar novas tecnologias que possam transformar ideias em realidade. Meu objetivo é contribuir em projetos de impacto, colaborando com equipes criativas e dinâmicas que valorizem inovação e excelência.<br>
-
-Estou em busca de oportunidades que me desafiem e permitam participar de grandes projetos em empresas que estejam moldando o futuro da tecnologia. Vamos trabalhar juntos para criar algo incrível!
+Meu objetivo é me especializar em Inteligência Artificial e Automação, com o foco em atuar como Desenvolvedor e Engenheiro de IA, contribuindo para a criação de sistemas inteligentes e eficientes que transformem desafios em oportunidades. Tenho como meta trabalhar em grandes empresas globais, contribuir para projetos desafiadores e de larga escala, e continuar desenvolvendo minhas habilidades técnicas e pessoais. A longo prazo, almejo assumir posições de liderança e gestão, onde possa impactar equipes e projetos de forma significativa.
 
 
 
