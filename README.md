@@ -1,10 +1,3 @@
-# 🚀 Sobre mim
-
-Olá, sou Isaque, estudante de Engenharia de Software, apaixonado por tecnologia e inovação. Atualmente, estou em plena construção da minha carreira como desenvolvedor de software, com ênfase em Back-End, buscando sempre me aprimorar para oferecer soluções impactantes e de alto valor.
-
-Meu objetivo é me especializar em Inteligência Artificial e Automação, com o foco em atuar como Desenvolvedor e Engenheiro de IA, contribuindo para a criação de sistemas inteligentes e eficientes que transformem desafios em oportunidades. Tenho como meta trabalhar em grandes empresas globais, contribuir para projetos desafiadores e de larga escala, e continuar desenvolvendo minhas habilidades técnicas e pessoais. A longo prazo, almejo assumir posições de liderança e gestão, onde possa impactar equipes e projetos de forma significativa.
-
-
 
 # 😁 Minhas Estatísticas
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
