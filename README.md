@@ -1,6 +1,6 @@
 
 # 😁 Sobre Mim
-Olá, me chamo Isaque, um apaixonado por tecnologia e inovação, com o propósito de desenvolver soluções que impactam positivamente a sociedade. Acredito que o desenvolvimento de software é a chave para transformar ideias em realidade, impulsionando negócios e melhorando a vida das pessoas. Atualmente sou estudante em Ciências da Computação , meu objetivo profissional é me tronar um desenvolvedor Back end ou Full Stack, e crescer para o cargo de Engenheiro de Software ou atuar em DevOps. <br>
+Olá, me chamo Isaque, um apaixonado por tecnologia e inovação. Atualmente sou estudante em Ciências da Computação , meu objetivo profissional é me tronar um desenvolvedor Back end ou Full Stack, e crescer para o cargo de Engenheiro de Software ou atuar em DevOps. <br>
 
 ### Redes socias:
  <div style="display:inline-block">
