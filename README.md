@@ -1,5 +1,7 @@
 
-# 😁 Minhas Estatísticas
+# 😁 Sobre Mim
+Olá, me chamo Isaque, um apaixonado por tecnologia e inovação, com o propósito de desenvolver soluções que impactam positivamente a sociedade. Acredito que o desenvolvimento de software é a chave para transformar ideias em realidade, impulsionando negócios e melhorando a vida das pessoas. Atualmente sou estudante em Ciências da Computação , meu objetivo profissional é me tronar um desenvolvedor Back end ou Full Stack, e crescer para o cargo de Engenheiro de Software ou atuar em DevOps. <br>
+
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
@@ -15,7 +17,8 @@
   <img align="center "alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center "alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img align="center "alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  
+
+  ### Ferramentas:
 
   
 
