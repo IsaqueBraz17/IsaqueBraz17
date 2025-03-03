@@ -1,14 +1,4 @@
-
-# 😁 Sobre Mim
-Olá, me chamo Isaque, um apaixonado por tecnologia e inovação. Atualmente sou estudante em Ciências da Computação , meu objetivo profissional é me tronar um desenvolvedor Back end ou Full Stack, e crescer para o cargo de Engenheiro de Software ou atuar em DevOps. <br>
-
-### Redes socias:
- <div style="display:inline-block">
-  <img align="center "alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img align="center "alt="Instragram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <img align="center "alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> <br>
-
-
+### 😁Olá , sou Isaque <br>
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
