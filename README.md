@@ -1,11 +1,12 @@
 ### 😁Olá , sou Isaque <br>
+Sou Desenvolvedor Full Stack em inicio de carreira, sou apaixonado por tecnologia e pelo impacto transformador que ela pode gerar na sociedade. Minha motivação é desenvolver soluções inovadoras que resolvam problemas reais, conectem comunidades e impulsionem mudanças positivas.<br><br>
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
 
 ## 🚀 Minhas Habilidades
 
-### Desenvolvmento Front End - Web - Design:
+### Desenvolvimento Front end + Design:
  <div style="display:inline-block">
   <img align="center "alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center "alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
