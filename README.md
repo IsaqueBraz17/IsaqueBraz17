@@ -1,5 +1,5 @@
 ### 😁Olá , sou Isaque <br>
-Sou Desenvolvedor Full Stack em inicio de carreira, sou apaixonado por tecnologia e pelo impacto transformador que ela pode gerar na sociedade. Minha motivação é desenvolver soluções inovadoras que resolvam problemas reais, conectem comunidades e impulsionem mudanças positivas.<br>
+Sou Desenvolvedor .NET em inicio de carreira, sou apaixonado por tecnologia e pelo impacto transformador que ela pode gerar na sociedade. Minha motivação é desenvolver soluções inovadoras que resolvam problemas reais, conectem comunidades e impulsionem mudanças positivas.<br>
 
 <div> 
   <a href="https://www.instagram.com/isaquebraz17/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
