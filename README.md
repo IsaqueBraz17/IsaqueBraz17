@@ -1,5 +1,5 @@
 ### 😁Olá , sou Isaque <br>
-Sou apaixonado pela tecnologia da informação, atualmente sou um Desenvolvedor .Net Back end em formação, com foco em trabalhar com aplicações Web,APIs,Cloud,Banco de dados e entre outros, almejo evoluir para Engenharia de Software ou me tornar Full Stack Developer, tendo interrese em me especializar em Arquitetura de Software ou DevOps e Cloud<br>
+Sou Desenvolvedor Front end, Web Developer e tambem conhencimento em Design Gráfico, Web Design, Design 3D
 
 
 
