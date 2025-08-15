@@ -1,7 +1,6 @@
 
 ### 😁 Olá! Sou o Isaque.
-😁 Fala aí! Eu sou o Isaque!!<br>
-Soua profissional da área de dados em formaçaõ, como foco em transformar dados em valores para empresa
+ Sou Desenvolvedor Júnior em formação, com foco em atuar em Back-End ou Full Stack, almejo atuar com Stack modernas do mercado, mas aberto atuar com ecossistema Microsoft.
 
 ## 🌐 Conecta comigo:
 <div> <a href="https://www.instagram.com/isaquebraz17/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="mailto:Isaquebraz2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/isaque-de-oliveira-braz-7a6a75302" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </div><br>
