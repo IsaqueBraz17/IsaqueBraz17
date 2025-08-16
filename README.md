@@ -1,6 +1,7 @@
 
 ### 😁 Olá! Sou o Isaque.
- Sou profissional em formação, com foco na área de dados, sendo Analista de dados, Cientista de dados ou Engenheiro de dados
+ Sou profissional em formação, com foco na área de dados, sendo Analista de dados, Cientista de dados ou Engenheiro de dados<br>
+ Almejo ajuntar todo meu conhencimento em Design + Dados + Programação e minhas soft skiils, para entregar soluções e valores ara empresa
 ## 🌐 Conecta comigo:
 <div> <a href="https://www.instagram.com/isaquebraz17/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="mailto:Isaquebraz2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/isaque-de-oliveira-braz-7a6a75302" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </div><br>
 
