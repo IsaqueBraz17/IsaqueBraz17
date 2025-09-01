@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou Isaque Braz!
-
-## 🚀 Desenvolvedor Front-end | Web Developer | Designer
-
-Sou um desenvolvedor apaixonado por criar experiências digitais incríveis, combinando código limpo com design intuitivo. Especializado em desenvolvimento front-end e web, com conhecimentos sólidos em design gráfico e back-end.
+ 🚀 Desenvolvedor .Net Back end | Front end + Web + Design<br><br>
+ Sou Desenvolvedor .Net Back end em formação, com foco em resolver problemas complexos e desafiadores, busco oportunidades aondem possa aprender e aplicar meu conhecimento,
+ e colaborar para equipe em desenvolviemnto de projeto usando minhas habilidades em competencias
 
 ## 🌐 Conecta comigo:
 
@@ -11,7 +10,7 @@ Sou um desenvolvedor apaixonado por criar experiências digitais incríveis, com
 <a href="mailto:Isaquebraz2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/isaque-de-oliveira-braz-7a6a75302" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </div>
----
+
 
 ## 📊 GitHub Stats
 
