@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou Isaque Braz!
- 🚀 Desenvolvedor .Net Back end | Front end + Web + Design<br><br>
- Sou Desenvolvedor .Net Back end em formação, com foco em resolver problemas complexos e desafiadores, busco oportunidades aondem possa aprender e aplicar meu conhecimento,
- e colaborar para equipe em desenvolviemnto de projeto usando minhas habilidades em competencias
 
+Sou Desenvolvedor Front end + Web + Design com foco em atuar na parte visual e interações do usuário, busco oportunidades aondem possa aplicar e aprender habilidades para meu desenvolvimento
+ 
 ## 🌐 Conecta comigo:
 
 <div> 
@@ -33,20 +32,6 @@
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-### ⚙️ Back-end & Database
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IsaqueBraz17&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
-<div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
   
 </div>
