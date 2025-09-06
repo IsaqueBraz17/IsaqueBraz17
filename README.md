@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Isaque Braz!
 
-Desenvolvedor .NET Back-end/Full Stack com 1 ano de experiência, especializado no ecossistema Microsoft. Além do desenvolvimento back-end, possuo conhecimentos complementares em Design, Web e Front-end.
+## Desenvolvedor Front end | Web Developer | Design Gráfico | Web Design | Design 3D
 
 ## 🌐 Conecte-se Comigo
 
@@ -12,25 +12,14 @@ Desenvolvedor .NET Back-end/Full Stack com 1 ano de experiência, especializado 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueBraz17&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 ## 🛠️ Tech Stack
-
-### 🔧 Back end + Cloud & DevOps
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🎨 Front-end & Design
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
