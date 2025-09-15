@@ -1,16 +1,18 @@
 # 👋 Olá, eu sou Isaque Braz
 
-## Profissional em Dados | Excel | Power BI | Python | SQL Server
-
-Sou Analista de Dados em formação, apaixonado por transformar dados em insights estratégicos que geram valor real para os negócios. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades em Ciência de Dados, Machine Learning e Inteligência Artificial.
-
+## Desenvolvedor em formação
+ Desenvolvedor de software em formação, com experiencia em Front end e Back end
+ 
 ### 🛠 Principais habilidades
-- **Python:** Pandas, NumPy, Matplotlib  
-- **Banco de Dados:** SQL Server, SQL  
-- **BI & Análise de Dados:** Power BI, Excel  
-- **Cloud & Deploy:** Microsoft Azure  
-- **Desenvolvimento Web:** HTML, CSS, JavaScript, jQuery  
-- **Design & 3D:** Inkscape, GIMP, Blender  
+
+- C# + Javascript
+- .Net 7.0/8.0/9.0
+- Asp.Net Core
+- Microsoft SQL Server 
+- Microsoft Azure (Deploys)
+- Desenvolvimento Web: HTML, CSS, JavaScript, jQuery
+- Design e Modelagem 3D: Inkscape, GIMP, Blender
+
 
 ### 📊 GitHub Stats
 
