@@ -1,9 +1,6 @@
 # 👋 Olá, eu sou Isaque Braz
 
-## Desenvolvedor .Net / Front end / Web / Design
-
-### 📊 GitHub Stats  
-[![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=radical&hide_border=true)](https://github.com/IsaqueBraz17)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueBraz17&layout=compact&theme=radical&hide_border=true)](https://github.com/IsaqueBraz17)
+[![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=radical&hide_border=true)](https://github.com/IsaqueBraz17) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueBraz17&layout=compact&theme=radical&hide_border=true)](https://github.com/IsaqueBraz17)
 
 ### 🛠 Principais habilidades
 
@@ -24,6 +21,6 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ### 📫 Contato
-- E-mail: [isaquebraz2018@gmail.com](mailto:isaquebraz2018@gmail.com)  
-- GitHub: [github.com/IsaqueBraz17](https://github.com/IsaqueBraz17)
-- Linkedin: [Linkedin.com/Isaque de Oliveira Braz](https://linkedin.com/in/isaque-de-oliveira-braz-7a6a75302)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaquebraz2018@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaqueBraz17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaque-de-oliveira-braz-7a6a75302)
