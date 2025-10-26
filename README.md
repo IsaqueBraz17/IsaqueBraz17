@@ -1,17 +1,26 @@
 # 👋 Olá, eu sou Isaque Braz
 
-[![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=radical&hide_border=true)](https://github.com/IsaqueBraz17) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueBraz17&layout=compact&theme=radical&hide_border=true)](https://github.com/IsaqueBraz17)
+Desenvolvedor apaixonado por tecnologia, com foco em soluções robustas no back end e um olhar criativo para o front end e design. Sempre em busca de novos desafios, adoro transformar ideias em sistemas funcionais e bem estruturados.
 
-### 🛠 Principais habilidades
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=radical&hide_border=true)](https://github.com/IsaqueBraz17)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueBraz17&layout=compact&theme=radical&hide_border=true)](https://github.com/IsaqueBraz17)
 
-#### **Back end**
+---
+
+## 🛠️ Minhas principais habilidades
+
+### ⚙️ Back end
+Trabalho com tecnologias modernas para construir APIs escaláveis, seguras e de alta performance.
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-#### **Front end + Web + Design**
+### 🎨 Front end + Web + Design
+Tenho experiência em criar interfaces intuitivas e responsivas, além de trabalhar com ferramentas de design gráfico e modelagem 3D.
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,7 +29,12 @@
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-### 📫 Contato
+---
+
+## 📬 Vamos conversar?
+
+Se quiser trocar ideias, colaborar em projetos ou apenas bater um papo sobre tecnologia, estou por aqui:
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaquebraz2018@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaqueBraz17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaque-de-oliveira-braz-7a6a75302)
