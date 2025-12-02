@@ -2,9 +2,6 @@
 
 Desenvolvedor apaixonado por tecnologia, com foco em soluções robustas no back end e um olhar criativo para o front end e design. Sempre em busca de novos desafios, adoro transformar ideias em sistemas funcionais e bem estruturados.
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=radical&hide_border=true)](https://github.com/IsaqueBraz17)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueBraz17&layout=compact&theme=radical&hide_border=true)](https://github.com/IsaqueBraz17)
-
 ---
 
 ## 🛠️ Minhas principais habilidades
