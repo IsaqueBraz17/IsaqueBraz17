@@ -2,13 +2,15 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.anuraghazra1.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=radical) ![Linguagens mais usadas](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IsaqueBraz17&layout=compact&theme=radical)
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Habilidades
 
+## Back end 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) <br>
+## Front end + Web + Design 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
