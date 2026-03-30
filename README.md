@@ -1,7 +1,6 @@
 # 👋 Olá, sou **Isaque Braz**
 
-![Estatísticas do GitHub](https://github-readme-stats.anuraghazra1.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=radical) 
-![Linguagens mais usadas](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IsaqueBraz17&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.anuraghazra1.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=radical) ![Linguagens mais usadas](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IsaqueBraz17&layout=compact&theme=radical)
 
 ## 🛠️ Habilidades
 
@@ -21,12 +20,6 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
-
-## 🚀 O que me motiva
-- Resolver problemas complexos com soluções simples e eficientes  
-- Aprender continuamente e acompanhar tendências tecnológicas  
-- Colaborar em projetos que impactam positivamente pessoas e negócios  
-
 ## 📬 Vamos conversar?
 
 Se quiser trocar ideias, colaborar em projetos ou bater um papo sobre tecnologia, você pode me encontrar em:
