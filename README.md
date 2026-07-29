@@ -2,14 +2,6 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.anuraghazra1.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=radical) ![Linguagens mais usadas](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IsaqueBraz17&layout=compact&theme=radical)
 
-## 🛠️ Habilidades
-![SQL Server](https://shields.io)
-![Python](https://shields.io)
-![Power BI](https://shields.io)
-![Excel](https://shields.io)
-
-
-
 ---
 ## 📬 Vamos conversar?
 
