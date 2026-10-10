@@ -8,9 +8,6 @@
   
 
 ## 📬 Vamos conversar?
-
-Se quiser trocar ideias, colaborar em projetos, falar sobre infraestrutura ou simplesmente bater um papo sobre tecnologia, me chame em:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaque-de-oliveira-braz-7a6a75302)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaquebraz2018@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaqueBraz17)
