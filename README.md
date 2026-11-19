@@ -1,7 +1,5 @@
 # 👋 Olá, sou **Isaque Braz**
 
-Estou construindo minha carreira profissional, como foco em ser e atuar como Analista de Infraestrutura e se especializar em Cloud, Redes e Linux, busco se aprofundar em stacks, habilidades importantes, e estou aberto a novas oportunidades
-
 <div align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=IsaqueBraz17&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub de Isaque" />  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IsaqueBraz17&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
 </div>
